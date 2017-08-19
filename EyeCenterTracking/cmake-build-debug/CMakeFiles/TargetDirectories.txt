@@ -1,0 +1,3 @@
+/Users/niyatishah/CLionProjects/HW06_Shah_Niyati/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/niyatishah/CLionProjects/HW06_Shah_Niyati/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/niyatishah/CLionProjects/HW06_Shah_Niyati/cmake-build-debug/CMakeFiles/Hw6.dir

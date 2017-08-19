@@ -1,0 +1,3 @@
+/Users/niyatishah/CLionProjects/SegmentationWaterShed/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/niyatishah/CLionProjects/SegmentationWaterShed/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/niyatishah/CLionProjects/SegmentationWaterShed/cmake-build-debug/CMakeFiles/main.dir
